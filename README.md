@@ -25,7 +25,7 @@ The dashboard was developed to address fragmented reporting across underwriting,
 ## Solution Components
 
 **Data Model**
-- Fact Claims, Fact Premiums, and supporting dimension tables  
+- DIM Claims, Fact Policy, and other supporting dimension tables  
 - Optimised relationships and incremental refresh  
 - Consistent KPI logic across visuals  
 
